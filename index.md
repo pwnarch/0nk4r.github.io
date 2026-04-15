@@ -39,7 +39,7 @@ Exploring the security of anything that computes, connects, or occasionally comb
 
 You can find me on:
 
-**[LinkedIn](https://linkedin.com/in/0nk4r)**   **[GitHub](https://github.com/0nk4r)**   **[Email](mailto:contact@onkark.com)**
+**[LinkedIn](https://linkedin.com/in/0nk4r)**   **[GitHub](https://github.com/pwnarch)**   **[Email](mailto:contact@onkark.com)**
 
 <style>
 .post-list-home .post-item {
