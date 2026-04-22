@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Onkar Koli
 tagline:          'Security Engineer'
-description:      'Product Security Engineer at SolarWinds, specializing in application security, secure development practices, and security architecture.'
+description:      'Product Security Engineer exploring the security of IoT, embedded firmware, and cloud infrastructure. Also a photographer.'
 url:              https://onkark.com
 baseurl:          ''  # Empty for custom domain
 
@@ -48,5 +48,4 @@ exclude:
 # google_analytics: 'UA-144594777-1'
 
 # Disqus
-disqus:
-  shortname: hanbinpage
+# disqus: shortname goes here when configured
